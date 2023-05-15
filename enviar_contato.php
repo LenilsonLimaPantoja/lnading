@@ -13,7 +13,7 @@ $empresa = isset($_POST['empresa']) ? $_POST['empresa'] : '';
 $cargo = isset($_POST['cargo']) ? $_POST['cargo'] : '';
 
 
-$bodyEmail = "Nome: $nome <br> E-mail: $email <br> Telefone: $telefone <br> Empresa: $empresa <br> Cargo: $cargo";
+$bodyEmail = "Nome: $nome <br> E-mail: $email <br> Telefone: $telefone <br> Empresa: $empresa <br> Cargo: $cargo <br> Email: $email";
 $remetente = 'lenilsonlm.pantoja@gmail.com';
 $remetenteNome = 'Lenilson Lima Pantoja';
 $remetenteSenha = 'swfbkcqqennntykq';

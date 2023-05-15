@@ -74,7 +74,7 @@
             </div>
             <div class="space" data-MY="60px"></div>
             <div class="col-md-6 m-auto">
-              <form id="contact-form" method="post" novalidate>
+              <form method="post" action="enviar_contato2.php">
                 <div class="row">
                   <div class="col-md-6">
                     <div class="form-group">
@@ -154,6 +154,7 @@
                         class="form-control"
                         rows="5"
                         placeholder="Sua mensagem"
+                        name="mensagem"
                       ></textarea>
                     </div>
                   </div>

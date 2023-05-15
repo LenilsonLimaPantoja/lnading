@@ -15,7 +15,7 @@ $numero_funcionarios = isset($_POST['numero_funcionarios']) ? $_POST['numero_fun
 $mensagem = isset($_POST['mensagem']) ? $_POST['mensagem'] : '';
 
 
-$bodyEmail = "Nome: $nome <br> E-mail: $email <br> Telefone: $telefone <br> Empresa: $empresa <br> Cargo: $cargo <br> QTD Funcionários: $numero_funcionarios <br> Mensagem: $mensagem";
+$bodyEmail = "Nome: $nome <br> E-mail: $email <br> Telefone: $telefone <br> Email: $email <br> Empresa: $empresa <br> Cargo: $cargo <br> QTD Funcionários: $numero_funcionarios <br> Mensagem: $mensagem";
 $remetente = 'lenilsonlm.pantoja@gmail.com';
 $remetenteNome = 'Lenilson Lima Pantoja';
 $remetenteSenha = 'swfbkcqqennntykq';
