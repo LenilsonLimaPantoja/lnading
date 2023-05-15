@@ -153,7 +153,7 @@
             >
               <img
                 style="border-radius: 15px"
-                src="assets/img/fluig.jpg"
+                src="assets/img/Fluig.jpg"
                 alt=""
                 width="180"
                 height="180"
