@@ -227,7 +227,7 @@
             <div class="col-md-3 post-item">
               <article class="post">
                 <div class="post-preview">
-                  <a href="#"><img src="assets/img/img1.png" alt="" /></a>
+                  <a href="#"><img src="assets/img/img1.jpg" alt="" /></a>
                 </div>
                 <div class="post-wrapper">
                   <div class="post-header">
@@ -243,7 +243,7 @@
             <div class="col-md-3 post-item">
               <article class="post">
                 <div class="post-preview">
-                  <a href="#"><img src="assets/img/img2.png" alt="" /></a>
+                  <a href="#"><img src="assets/img/img2.jpg" alt="" /></a>
                 </div>
                 <div class="post-wrapper">
                   <div class="post-header">
@@ -259,7 +259,7 @@
             <div class="col-md-3 post-item">
               <article class="post">
                 <div class="post-preview">
-                  <a href="#"><img src="assets/img/img3.png" alt="" /></a>
+                  <a href="#"><img src="assets/img/img3.jpg" alt="" /></a>
                 </div>
                 <div class="post-wrapper">
                   <div class="post-header">
@@ -275,7 +275,7 @@
             <div class="col-md-3 post-item">
               <article class="post">
                 <div class="post-preview">
-                  <a href="#"><img src="assets/img/img4.png" alt="" /></a>
+                  <a href="#"><img src="assets/img/img4.jpg" alt="" /></a>
                 </div>
                 <div class="post-wrapper">
                   <div class="post-header">
